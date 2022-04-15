@@ -1,0 +1,23 @@
+.section2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    color: gold;
+   background: grey;
+   font-family:verdana;
+
+}
+.social { color: gold;
+
+
+}
+.office { color: gold;
+
+}
+h2{color: black;}
+.contact {
+    color: gol
+}
+h1{ display: flex;
+justify-content:  center;
+align-items: center;}
