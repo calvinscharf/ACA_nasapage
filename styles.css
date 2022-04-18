@@ -3,37 +3,35 @@
     flex-direction: row;
     justify-content: space-evenly;
     color: gold;
-   background: grey;
-   font-family:verdana;
+    background: grey;
+    font-family:verdana;
 
 }
-
-h1{ display: flex;
-justify-content:  center;
-;
+.section1{
+    display:flex;
+    align-content: center;
+    justify-content: center;
+    background-image: url(nasa.jpg.jpg);
+    height: 450px;
 }
 
-h2{color: black;}
-.contact {
-}
-.social { 
-
-
-}
-.office { 
-
+h1{ 
+    align-self: center;
 }
 
-.message {
-    height: 20px;
-}
 
+
+#message {
+    height: 40px;
+
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+}
     
 
-.button{
-    /* background-color: ; */
-    text-align:center;
-    padding: 15px 32px;
-    flex-basis: auto;
+button{
+     width: 75px; 
 
 }
