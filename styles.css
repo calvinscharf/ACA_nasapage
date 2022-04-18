@@ -7,17 +7,33 @@
    font-family:verdana;
 
 }
-.social { color: gold;
 
-
-}
-.office { color: gold;
-
-}
-h2{color: black;}
-.contact {
-    color: gol
-}
 h1{ display: flex;
 justify-content:  center;
-align-items: center;}
+;
+}
+
+h2{color: black;}
+.contact {
+}
+.social { 
+
+
+}
+.office { 
+
+}
+
+.message {
+    height: 20px;
+}
+
+    
+
+.button{
+    /* background-color: ; */
+    text-align:center;
+    padding: 15px 32px;
+    flex-basis: auto;
+
+}
